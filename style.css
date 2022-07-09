@@ -21,11 +21,11 @@ a {
     text-decoration: none;
     margin-right: 100px;
     text-align: center;
-    background-color: #E8A700;
-    color: black;
-    padding: 10px;
+    ackground-color: #E8A700;
+    color: #0C6D27;
+    padding: 7px;
     margin-top: 80px;
-   
+    order: 3px solid #E8A700;
 }
 nav {
     margin-top: 20px;
@@ -50,4 +50,7 @@ footer {
     color: white;
     margin-bottom: 5px;
     padding-bottom: 5px;
+}
+a:hover {
+    color: black;
 }
